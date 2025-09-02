@@ -1,5 +1,5 @@
 # utakbhate0943-dot.github.io
-####   :file_folder: [UNICEF Data](https://data.unicef.org/)
+## 📁[UNICEF Data](https://data.unicef.org/)
 UNICEF stands for the United Nations International Children's Emergency Fund. It was formed around 1946, and since then it has been playing a crucial role in providing good healthcare facilities and working for the overall development of children worldwide. UNICEF works in over 235 countries and has reached millions of children with the help of basic needs, food, healthcare, education, and well-being. We can find educational datasets, immunization data, disease and outbreak details, malnutrition details, and survey data across different time frames, regions, and communities. Today's children are the building blocks of our future, so this subject area is quite important for everyone. 
 
 **Educational Aid Dataset Applications:** 
@@ -16,7 +16,7 @@ If certain natural or man-made disasters occur, this dataset can be used to prov
 4. To understand the demand for volunteers, regional teams, and inventory demands for food and medical kits. Accordingly, teams can plan and strategize the supply chain.
 
 
-#### :book: [**Natural Language Processing**](https://web.stanford.edu/~jurafsky/slp3/ed3book_aug25.pdf)
+## 📖[**Natural Language Processing**](https://web.stanford.edu/~jurafsky/slp3/ed3book_aug25.pdf)
 **Author:** ***Dan Jurafsky and Christopher Manning***
 
 Natural Language processing(NLP) is the process where you can directly ask a question to database using normal language(engish) and it will show the answers. NLP is combination of natural query understanding and generation. Nowadays everyone is using AI bot as search engine or understand solutions to problem and get knowledge. It is related to to prompt enginnering. 
