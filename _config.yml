@@ -1,0 +1,13 @@
+ Site settings
+title: "Uma's Homepage"
+description: "My personal website"
+baseurl: ""       # leave empty if using username.github.io
+url: "https://utakbhate0943-dot.github.io"  # your GitHub Pages URL
+
+# Build settings
+theme: minima     # default Jekyll theme
+plugins:
+  - jekyll-feed
+
+# Optional settings
+author: "Uma Takbhate"
