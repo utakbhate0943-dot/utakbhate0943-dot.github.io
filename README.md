@@ -6,7 +6,7 @@ UNICEF stands for the United Nations International Children's Emergency Fund. It
 1. To understand literacy snapshots among children from different regions. This will help identify and allocate resources.
 2. To provide primary/secondary education facilities, we can analyze the data to find the exact demand and route appropriate resources.
 3. With available data on literacy rates, small firms can help UNICEF on skill development programs and on implementing digital platforms for better educational practices.
-   
+
 **Children's Health, Immunization, Nutrition Dataset Applications:**
 1. To analyze premature childbirth, disabilities in children, and to create awareness about proper medical and health practices.
 2. During a disease outbreak, special treatments can be facilitated for children. This data also helps identify requirements for mandatory vaccination drives.
