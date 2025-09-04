@@ -16,7 +16,11 @@ UNICEF stands for the United Nations International Children's Emergency Fund. It
 ### 📖[**Natural Language Processing**](https://web.stanford.edu/~jurafsky/slp3/ed3book_aug25.pdf)
 **Authors:** **Daniel Jurafsky** *(Stanford University)*; **James H. Martin** *(University of Colorado at Boulder)*
 
-Natural Language processing(NLP) is a combination of understanding queries and generating output. All generative AI bots use this process, where you can directly ask a question to the database using normal language(English) and it will show the answers or related datapoints, or remarks. Nowadays, everyone is using an AI bot as a search engine or to understand solutions to problems and get knowledge. This book has touched all blocks of NLP. It has shown different techniques for understanding problem sentences, breaking queries and analyzing sets, looking back into inbuilt data, and trying to generate the most relatable, right, and ethical response. The book **covers all the basics related to Word and Token analysis, Language models, Regression techniques, and Linguistic structures.**
+Natural Language processing(NLP) is a combination of understanding queries and generating output. All generative AI bots use this process, where you can directly ask a question to the database using normal language(English) and it will show the answers or related datapoints, or remarks. Nowadays, everyone is using an AI bot as a search engine or to understand solutions to problems and get knowledge. 
 
-This will definitely **help everyone to understand how generative AI chatbots work**. This will **help one become a prompt engineer/ an AI engineer or to work on chatbot development from scratch**. 
+This book has touched all blocks of NLP. It has shown different techniques for understanding problem sentences, breaking queries and analyzing sets, looking back into inbuilt data, and trying to generate the most relatable, right, and ethical response. The book covers all the basics related **to Word and Token analysis, Language models, Regression techniques, and Linguistic structures. It has chapters on tokenization techniques, n-gram Language models for training sets. It has more details on regression types and deriving equations**. The book also covers embedding and network techniques. This also **discusses 3 different architectures for language models, training methods, and evaluation.** This will definitely help one to start working on LLM
+      
+Everyone can **understand how generative AI chatbots work** with this reference. This will **help one become a prompt engineer/ an AI engineer or to work on chatbot development from scratch.** 
+
+
 
